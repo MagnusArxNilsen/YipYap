@@ -1,2 +1,2 @@
 # YipYap
-App mobile; speed read flasher.
+App mobile; speed read flasher capture.
